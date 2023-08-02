@@ -1,2 +1,2 @@
-# distancia_capitais
-tabela de distancias de capitais
+# distancias de cidades e capitais brasileiras
+
